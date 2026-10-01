@@ -1,0 +1,11 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0.1" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_1_blur)" xml:space="preserve" text-anchor="start" font-family="'Newsreader'" font-size="240" id="svg_1" y="456.24999" x="170.37502" stroke-width="0" stroke="#000" fill="#000000">fabr.</text>
+ </g>
+</svg>
